@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class GameManager : MonoBehaviour
 
     public int correctScore = 0;
     public int wrongScore = 0;
+  
     // Start is called before the first frame update
     void Start()
     {
@@ -22,8 +24,11 @@ public class GameManager : MonoBehaviour
         }
 
         DontDestroyOnLoad(gameObject);
+
+        
+
     }
-    
+
     // Update is called once per frame
     void Update()
     {

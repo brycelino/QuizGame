@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 18
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 23
+  controlID: 62
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 24
+  controlID: 63
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,28 +344,28 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\bryce\C#Unity\QuizGame
+  m_LastProjectPath: C:\Users\bryce\Documents\GitHub\school c# g&s\QuizGame\QuizGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6370000
-    m_LastClickedID: 14246
-    m_ExpandedIDs: 00000000a037000000ca9a3b
+    m_SelectedIDs: 7c370000
+    m_LastClickedID: 14204
+    m_ExpandedIDs: 000000007637000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scripts
-      m_OriginalName: Scripts
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 14248
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a0370000
+    m_ExpandedIDs: 0000000076370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,7 +423,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 3}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 428e0000
-      m_LastClickedID: 36418
-      m_ExpandedIDs: 289cffff2e9dffff569dffff6e9dffff829dffff969dffffaa9dffffbe9dffffd29dffffe69dfffffa9dffff0e9effff229effff0c9fffffb89fffffa0a0ffff6ea5ffff34a7ffff2cb4ffff9ab4ffffe8b4ffff52b5ffff8cb7ffffc2b7ffffd6b7ffff46b9ffffa2bbffff60bdffff8abdffffd4bdffffcebeffff7cbfffffacbfffff2ac0ffff96c0ffff72c1ffff92c1ffffa6c1ffffbac1ffffcec1ffffeec1ffff08c2ffff1cc2ffff30c2ffff44c2ffff5cc2ffff64c3ffff78c3ffff8cc3ffffa8c3ffffbcc3ffffd0c3ffffe8c3ffffd2dbffff9edfffffb6dfffff4ce0ffff92e1ffff26e6ffffcaedffff64fbfffff4ffffff2e370000503700007e3b0000fe4100001c4a00004c4a0000ee4a00002a4b00004c4b0000765f00008a5f0000026d0000fc7900001c7a0000307a00003c7a0000587a0000
+      m_SelectedIDs: 92370000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 4aeaffff7eeeffff6cf0ffffa6f2ffff9af3ffff60f6ffff38f7ffff6cf8ffff36f9ffff64fbfffff4ffffff14370000cc3a00003e3f000070430000ee480000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -716,7 +716,7 @@ MonoBehaviour:
       width: 775
       height: 714
     m_Scale: {x: 1.092727, y: 1.092727}
-    m_Translation: {x: 385.78455, y: 384.53992}
+    m_Translation: {x: 385.78455, y: 384.53995}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -724,7 +724,7 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -353.04752
-      y: -351.9085
+      y: -351.90854
       width: 709.2348
       height: 653.4112
     m_MinimalGUI: 1
